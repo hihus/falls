@@ -1,0 +1,4 @@
+Packages in this repository:
+
+Install: $ go get store/sortutil
+Godocs:  http://godoc.org/store/sortutil

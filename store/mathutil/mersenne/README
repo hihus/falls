@@ -1,0 +1,2 @@
+Install: $ go get store/mathutil/mersenne
+Godocs:  http://gopkgdoc.appspot.com/pkg/store/mathutil/mersenne
